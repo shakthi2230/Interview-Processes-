@@ -20,7 +20,7 @@
 -Chatbot with PDF: Integrate PDF processing capabilities into the chatbot, allowing users to upload PDF documents and extract relevant information through conversational interactions.
 
 Streamlit Running Command:
-(streamlit run frontendapp.py).
+('streamlit run frontendapp.py').
 You can now view your Streamlit app in your browser.
 Local URL: http://localhost:8501
 Network URL: http://192.168.X.X:8501
